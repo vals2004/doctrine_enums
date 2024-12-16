@@ -1,5 +1,5 @@
 {
-    "name": "enumeum/doctrine-enums",
+    "name": "vals2004/doctrine-enums",
     "description": "Doctrine extension to manage enumerations in PostgreSQL",
     "license": "MIT",
     "type": "library",
@@ -24,7 +24,7 @@
         "php": "^8.1",
         "doctrine/annotations": "^1.13",
         "doctrine/common": "^2.13 || ^3.0",
-        "doctrine/event-manager": "^1.0"
+        "doctrine/event-manager": "^2.0"
     },
     "require-dev": {
         "doctrine/dbal": "^2.13 || ^3.2",
