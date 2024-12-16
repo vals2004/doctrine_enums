@@ -22,7 +22,7 @@
     },
     "require": {
         "php": "^8.1",
-        "doctrine/annotations": "^3.0",
+        "doctrine/annotations": "^2.0",
         "doctrine/common": "^2.13 || ^3.0",
         "doctrine/event-manager": "^2.0"
     },
